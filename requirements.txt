@@ -4,7 +4,7 @@ langchain-community==0.3.25
 langchain-groq
 langchain-huggingface
 langchain-core>=0.3.58
-faiss-cpu
+faiss-cpu>=1.12.0
 sentence-transformers
 pypdf
 python-dotenv
