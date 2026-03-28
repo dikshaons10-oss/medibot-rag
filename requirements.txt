@@ -1,9 +1,9 @@
 streamlit
-langchain==0.3.25
-langchain-community==0.3.25
+langchain
+langchain-community
 langchain-groq
 langchain-huggingface
-langchain-core>=0.3.58
+langchain-core
 faiss-cpu
 sentence-transformers
 pypdf
